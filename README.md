@@ -1,2 +1,2 @@
 <h4>Hey!</h4>
-I'm Fabian, hobby developer from germany.
+I'm Fabian, a hobby developer from germany.
